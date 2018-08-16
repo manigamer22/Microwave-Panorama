@@ -26,3 +26,7 @@ Injection can be done by injecting it with your favorite shared library injector
 
 * ViKiNG (Making Microwave)
 * Akalisch (NetVarManager/PatternScanner)
+
+### Help
+
+Join manigamer discord: https://discord.gg/pGEtr3Y
