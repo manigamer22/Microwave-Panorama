@@ -2,6 +2,8 @@
 
 Macintosh hack for Counter-Strike: Global Offensive. Open source.
 
+# Guys I didnt make the cheat so dont tell others thats I made it. I am just a person who update this cheat when https://github.com/sonicrules11 doesnt update his. So dont tell others that I made the cheat. Thank you
+
 ### Setup
 
 Requirements:
