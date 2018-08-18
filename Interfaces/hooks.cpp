@@ -22,7 +22,7 @@ void InitializeHooks() {
     paintVMT->HookVM((void*)hkPaintTraverse, 42);
     paintVMT->ApplyVMT();
     
-    clientVMT->HookVM((void*)hkFrameStage, 37);
+    clientVMT->HookVM((void*)hkFrameStage, 41);
     clientVMT->ApplyVMT();
 }
 
